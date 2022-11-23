@@ -1,0 +1,2 @@
+float64 lw_velocity
+float64 rw_velocity
